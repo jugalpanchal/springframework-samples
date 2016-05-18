@@ -1,4 +1,4 @@
-package springsimpleprototype;
+package com.jugalpanchal.springframework.springsimpleprototype;
 
 public class MainApp {
 
